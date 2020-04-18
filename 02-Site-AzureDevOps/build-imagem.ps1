@@ -1,0 +1,1 @@
+docker build . -t site-azuredevops-16-04:1.0
